@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Battleships</string>
+    <string name="play_game_title">Play Game</string>
+    <string name="play_game_button_easy">Easy Mode</string>
+    <string name="play_game_button_hard">Hard Mode</string>
+    <string name="play_again_button">Play Again</string>
+    <string name="confirm_ships_button">Confirm Ship Placement</string>
+    <string name="place_ships_title">Place Your Ships</string>
+    <string name="place_ships_help">Drag and drop a ship to move it\nTap on a ship to rotate it</string>
+    <string name="name_enemy_easy">Easy Computer</string>
+    <string name="name_enemy_hard">Hard Computer</string>
+    <string name="name_you">You</string>
+    <string name="turn_enemy">Waiting for Enemy</string>
+    <string name="turn_you">Your Turn</string>
+    <string name="win_enemy">You have lost the game, better luck next time!</string>
+    <string name="win_you">Congratulations, you have won the game!</string>
+</resources>

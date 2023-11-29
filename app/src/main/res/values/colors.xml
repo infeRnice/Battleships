@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#032d6e</color>
+    <color name="colorPrimaryAccent">#09566e</color>
+    <color name="colorSecondary">#46006e</color>
+    <color name="colorSecondaryAccent">#742682</color>
+    <color name="background">#fff</color>
+
+    <color name="primaryText">#05000a</color>
+    <color name="secondaryText">#333</color>
+    <color name="buttonText">#fff</color>
+
+    <color name="gridLines">#000</color>
+    <color name="gridCell">#eee</color>
+    <color name="shipFill">#46464e</color>
+    <color name="shipLines">#000</color>
+    <color name="shipSunkTint">#77ff0000</color>
+    <color name="guessMiss">#333</color>
+    <color name="guessHit">#c82828</color>
+</resources>
