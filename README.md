@@ -23,8 +23,8 @@ An Android app for Battleships using Kotlin by Joe Baker.
 
 ![Screenshot of Ship Placement Activity](.github/Screenshots/PlaceYourShips.jpg?raw=true)
 
-## Copyright
+#BackLog
+-make P2P mode
 
-- logic & app © 2023 Joe Baker (JoeBlakeB)
-- lib & testlib © 2023 Paul De Vrieze (pdvrieze)
-- Battleships © 1990 Milton Bradley Company
+#Copyright
+the base code is borrowed and modernized
